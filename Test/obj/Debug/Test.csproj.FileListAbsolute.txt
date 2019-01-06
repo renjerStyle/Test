@@ -1,0 +1,13 @@
+D:\Other\Learning\NET_Developer\C#_Project\Project_Musorka\Testg\Test\bin\Debug\Test.exe.config
+D:\Other\Learning\NET_Developer\C#_Project\Project_Musorka\Testg\Test\bin\Debug\Test.exe
+D:\Other\Learning\NET_Developer\C#_Project\Project_Musorka\Testg\Test\bin\Debug\Test.pdb
+D:\Other\Learning\NET_Developer\C#_Project\Project_Musorka\Testg\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+D:\Other\Learning\NET_Developer\C#_Project\Project_Musorka\Testg\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+D:\Other\Learning\NET_Developer\C#_Project\Project_Musorka\Testg\Test\obj\Debug\Test.exe
+D:\Other\Learning\NET_Developer\C#_Project\Project_Musorka\Testg\Test\obj\Debug\Test.pdb
+e:\FORWGames\CloneTest\Test\bin\Debug\Test.exe.config
+e:\FORWGames\CloneTest\Test\obj\Debug\Test.exe
+e:\FORWGames\CloneTest\Test\obj\Debug\Test.pdb
+e:\FORWGames\CloneTest\Test\bin\Debug\Test.exe
+e:\FORWGames\CloneTest\Test\bin\Debug\Test.pdb
+e:\FORWGames\CloneTest\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
