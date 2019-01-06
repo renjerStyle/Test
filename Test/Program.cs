@@ -4,6 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+// От Miko
+// Я не читал код, просто написал коммент
 namespace Test
 {
     class Program
